@@ -1,0 +1,36 @@
+.check-table {
+  padding: 20px;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: #fff;
+}
+
+.check-table h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+}
+
+.check-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.check-table th, .check-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #3a3a3a; /* Adjust border color */
+}
+
+.check-table th {
+  background-color: #2b2b2b; /* Adjust header background color */
+}
+
+.check-table tbody tr:hover {
+  background-color: #333; /* Row hover color */
+}
+
+.check-table input[type="checkbox"] {
+  margin-left: 10px;
+}

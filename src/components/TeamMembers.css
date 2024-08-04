@@ -1,0 +1,18 @@
+.card.team-members {
+    background-color: #1f2937;
+    border-radius: 8px;
+    padding: 20px;
+    color: #ffffff;
+    margin-bottom: 20px;
+  }
+  
+  .card.team-members ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .card.team-members li {
+    padding: 10px 0;
+    border-bottom: 1px solid #444;
+  }
+  

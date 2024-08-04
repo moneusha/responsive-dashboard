@@ -1,0 +1,25 @@
+.header {
+  background-color: #374151;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-right input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.profile-icon {
+  background-color: #4b5563;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 50%;
+}
